@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4804" started-at="2017-12-27T18:27:44Z" finished-at="2017-12-27T18:27:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4804" started-at="2017-12-27T18:27:44Z" finished-at="2017-12-27T18:27:49Z">
+      <class name="by.http.tstng.tstng_study.GoogleTest">
+        <test-method status="PASS" signature="testGoogleSearch()[pri:0, instance:by.http.tstng.tstng_study.GoogleTest@47c62251]" name="testGoogleSearch" duration-ms="4782" started-at="2017-12-27T21:27:44Z" finished-at="2017-12-27T21:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleSearch -->
+      </class> <!-- by.http.tstng.tstng_study.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

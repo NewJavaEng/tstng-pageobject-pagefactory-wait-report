@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" thread-count="2" parallel="tests">
+    <test name="testGoogleSearch">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="by.http.tstng.tstng_study.GoogleTest"/>
+        </classes>
+    </test>
+</suite>
+
